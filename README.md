@@ -1,15 +1,41 @@
 <div align="center">
- <h1>🕹️ NLW e-Sports 🕹️</h1>
- <p>Projeto está sendo desenvolvido junto com a rocketseat, onde em uma semana faremos esse projeto!</P>
+ <h1> 🕹️ NLW e-Sports 🕹️ </h1>
+ <p>Página que mostra os games favoritos e canais de Streamers que o usuário gosta de acompanhar!</P>
  </div>
 
 
-> Sobre o projeto:
-> * Nele o usuario pode  adicionar os games favoritos e canais de Streamers que mais gosta de acompanhar!
+
+> Trabalhamos nesse projeto:
+> * HTML e CSS
+> * Trabalhei só com a medida rem, fazendo a conversão das medidas diretamente no root!
+> * Animações Css
+> * Aprendi algo novo com esse projeto:  backwards --> É o que colocamos junto com a chamada da animação, para que ela fique bastante suave em relação a sua posição inicial até a final!
 
 
-<p style="text-align:center;">🔧Em desenvolvimento🔧</p>
-  
 
 
-![Wallpaper](https://user-images.githubusercontent.com/107922389/190658557-dccde52c-acf8-4909-94e2-2092148772bb.png)
+
+<div align="center">
+
+
+⬇️Preview ⬇️
+
+
+  <p style="text-align:center;">Veja o projeto online clicando <a href="https://abnergamesshow.netlify.app/">Aqui!</a></p>
+
+
+![Antes (1)](https://user-images.githubusercontent.com/107922389/190869486-175aefa5-00e1-4b55-9279-363447027d31.gif)
+
+
+
+   <p style="text-align: center;">Por Abner Santos ✨</p>
+  </div>
+
+
+
+
+ 
+
+
+
+
